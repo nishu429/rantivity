@@ -1,0 +1,41 @@
+{
+  "name": "locallink",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./rantivity.js"
+  },
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "apn": "^2.2.0",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.2",
+    "ckeditor4": "^4.25.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "~1.4.4",
+    "cron": "^3.5.0",
+    "crypto-js": "^4.2.0",
+    "debug": "~2.6.9",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "~4.16.1",
+    "express-fileupload": "^1.5.1",
+    "express-session": "^1.18.0",
+    "firebase": "^10.14.1",
+    "googleapis": "^144.0.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "~1.9.1",
+    "mysql2": "^3.11.0",
+    "node-cron": "^3.0.3",
+    "node-input-validator": "^4.5.1",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7",
+    "sequelize": "^6.37.3",
+    "socket.io": "^4.8.0",
+    "twilio": "^5.4.0",
+    "uuid": "^10.0.0"
+  }
+}
